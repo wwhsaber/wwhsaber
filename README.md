@@ -76,14 +76,20 @@ I build small, useful tools and ship practical open-source fixes.
 ### GitHub stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=wwhsaber&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wwhsaber&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="./assets/stats.svg" alt="GitHub stats" height="180" />
+  <img src="./assets/langs.svg" alt="Top languages" height="180" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wwhsaber&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="./assets/streak.svg" alt="GitHub streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="./assets/commits-lang.svg" alt="Most commit language" height="180" />
 </div>
 
 ---
